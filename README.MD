@@ -1,5 +1,7 @@
 # Parallel Consumers
 
+This guide is inspired directly on https://developer.confluent.io/tutorials/confluent-parallel-consumer/kafka.html
+
 Start kafka (single broker):
 
 ```bash
